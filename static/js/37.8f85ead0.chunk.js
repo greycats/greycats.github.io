@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-ilabs3.0"]=this["webpackJsonpreact-ilabs3.0"]||[]).push([[37],{367:function(a,i,s){a.exports=s.p+"static/media/Caecilia-3.21c66227.png"}}]);
-//# sourceMappingURL=37.8f85ead0.chunk.js.map

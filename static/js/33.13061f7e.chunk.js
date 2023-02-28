@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-ilabs3.0"]=this["webpackJsonpreact-ilabs3.0"]||[]).push([[33],{528:function(a,i,s){a.exports=s.p+"static/media/Fiton Thumbnail.955e2748.png"}}]);
-//# sourceMappingURL=33.13061f7e.chunk.js.map
