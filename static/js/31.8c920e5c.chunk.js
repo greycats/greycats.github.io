@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-ilabs3.0"]=this["webpackJsonpreact-ilabs3.0"]||[]).push([[31],{533:function(a,s,p){a.exports=p.p+"static/media/banner.dd1df413.png"}}]);
-//# sourceMappingURL=31.8c920e5c.chunk.js.map
