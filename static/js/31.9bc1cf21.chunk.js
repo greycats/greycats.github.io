@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-ilabs3.0"]=this["webpackJsonpreact-ilabs3.0"]||[]).push([[31],{534:function(a,i,s){a.exports=s.p+"static/media/Hero-animation-1920x1080.a5855433.mp4"}}]);
-//# sourceMappingURL=31.9bc1cf21.chunk.js.map
