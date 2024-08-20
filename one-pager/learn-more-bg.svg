@@ -1,0 +1,8 @@
+<svg width="752" height="617" viewBox="0 0 752 617" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" width="750" height="617" fill="#1B1A1A"/>
+<path opacity="0.01" fill-rule="evenodd" clip-rule="evenodd" d="M1 189H215C333.189 189 429 284.811 429 403C429 521.189 333.189 617 215 617H1V189Z" fill="white"/>
+<path opacity="0.02" fill-rule="evenodd" clip-rule="evenodd" d="M1 403L215 189C268.647 189 317.683 208.74 355.241 241.352C355.233 241.43 193.6 403 193.6 403C193.6 403 355.241 564.57 355.233 564.654C317.676 597.263 268.643 617 215 617L1 403Z" fill="white"/>
+<path opacity="0.06" fill-rule="evenodd" clip-rule="evenodd" d="M355.245 241.356C400.429 280.592 429 338.459 429 403C429 467.544 400.426 525.414 355.237 564.65C355.245 564.57 193.6 403 193.6 403L355.245 241.356Z" fill="white"/>
+<rect x="751" y="101" width="1" height="32" transform="rotate(90 751 101)" stroke="white" stroke-width="2"/>
+<rect x="33" y="76" width="1" height="32" transform="rotate(90 33 76)" stroke="white" stroke-width="2"/>
+</svg>
